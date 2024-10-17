@@ -1,4 +1,4 @@
-# LITA_CLASS-DOCUMENTATION-2
+ # LITA_CLASS-DOCUMENTATION-2
 
 # CLASSES ATTENDED ON LITA INCUBATOR HUB
 
@@ -13,6 +13,10 @@
 ---
 
 ### all the ribborns and tools in excel,how to navigate through excel workbook
+
+|HEADING 1|HEADING 2|HEADING 3|
+|---------|---------|---------|
+|TABLE 1 |TABLE 2|TABLE 3|
 
 # DATA ENTRY IN EXCEL
 # WHAT WAS LEARNT
