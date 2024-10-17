@@ -19,7 +19,7 @@
 
 ### tools used
 
- # -microsoft excel for data cleaning and analysis {download here(http:/www.microsoft.com)}
+ # -microsoft excel for data cleaning and analysis [download here](http:/www.microsoft.com)}
 # -sql for data query 
 # -power bi for visualization
 
