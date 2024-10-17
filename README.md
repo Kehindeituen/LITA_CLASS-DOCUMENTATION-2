@@ -23,3 +23,13 @@
 # -sql for data query 
 # -power bi for visualization
 
+### Data cleaning and preparations
+ data loading
+ data cleaning
+ data formatting
+
+ ### EXPLORATORY DATA ANALYSIS
+
+ -overall sales strenght
+
+
